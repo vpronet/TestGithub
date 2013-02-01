@@ -1,0 +1,14 @@
+{
+    "id" : 123456,
+    "friends" : [
+{
+"name":"friend1"
+},
+{
+"name":"friend2"
+},
+{
+"name":"friend3"
+}
+]
+}

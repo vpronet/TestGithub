@@ -1,0 +1,28 @@
+{
+    "game" : [
+        {
+            "user1":"name1",
+            "money":12345,
+            "avatar":"urlAvatar",
+            "postionX":100,
+            "postionY":100,
+            "cards" : [2,4,6]
+        },
+        {
+            "user1":"name2",
+            "money":123456,
+            "avatar":"urlAvatar",
+            "postionX":200,
+            "postionY":200,
+            "cards" : [11,14,16]
+        },
+        {
+            "user1":"name3",
+            "money":123456,
+            "avatar":"urlAvatar",
+            "postionX":300,
+            "postionY":300,
+            "cards" : [22,24,26]
+        }
+    ]
+}
